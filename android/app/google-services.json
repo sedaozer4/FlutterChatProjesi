@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028051128296",
+    "project_id": "seda-7b335",
+    "storage_bucket": "seda-7b335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028051128296:android:6c767c700e69060a711e5d",
+        "android_client_info": {
+          "package_name": "com.chat.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028051128296-2583nrj0kf7r78mnkklp0bu46fj45t99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvUoK7vUFlmHbvI4yc4N7BtmjJcrX9r7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028051128296-2583nrj0kf7r78mnkklp0bu46fj45t99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
